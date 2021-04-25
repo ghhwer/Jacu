@@ -1,4 +1,4 @@
-package com.ghhwer.endpoints.ssh;
+package com.ghhwer.jacu.endpoints.ssh;
 
 public class Command {
     private String command;

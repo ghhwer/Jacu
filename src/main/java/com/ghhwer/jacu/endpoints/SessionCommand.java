@@ -1,4 +1,4 @@
-package com.ghhwer.endpoints;
+package com.ghhwer.jacu.endpoints;
 
 import javax.validation.constraints.NotNull;
 

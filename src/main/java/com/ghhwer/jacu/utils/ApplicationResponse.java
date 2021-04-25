@@ -1,4 +1,4 @@
-package com.ghhwer.utils;
+package com.ghhwer.jacu.utils;
 
 public class ApplicationResponse {
     Boolean status;

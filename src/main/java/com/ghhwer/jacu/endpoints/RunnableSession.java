@@ -1,6 +1,6 @@
-package com.ghhwer.endpoints;
+package com.ghhwer.jacu.endpoints;
 
-import com.ghhwer.endpoints.ssh.Command;
+import com.ghhwer.jacu.endpoints.ssh.Command;
 import com.jcraft.jsch.ChannelExec;
 import com.jcraft.jsch.JSch;
 import com.jcraft.jsch.JSchException;

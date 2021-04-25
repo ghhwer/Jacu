@@ -1,4 +1,4 @@
-package com.ghhwer.endpoints;
+package com.ghhwer.jacu.endpoints;
 
 import java.util.ArrayList;
 import java.util.Iterator;
@@ -6,7 +6,7 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.atomic.AtomicLong;
 
-import com.ghhwer.utils.ApplicationResponse;
+import com.ghhwer.jacu.utils.ApplicationResponse;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;
 
