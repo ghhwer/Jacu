@@ -3,7 +3,7 @@
 
 Jacu is a REST Service for running and managing multiple SSH connections using a REST API. 
 
-This can be usifull while creating internal telemetry services.
+This can be useful for creating internal telemetry services.
 
 
 PLEASE do not expose SSH connections outside of your internal network (unless you realy know what your doing). This project was not designed for production enviroments (yet... who knows...) There's still a lot of work to be done.
